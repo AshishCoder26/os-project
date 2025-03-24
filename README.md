@@ -52,4 +52,4 @@ Research Paper on Energy-Efficient CPU Scheduling
 DVFS and its Impact on CPU Scheduling
 Operating Systems: Principles and Practice
 
-This version keeps it professional while still visually engaging. Let me know if you need more edits! 🚀
+
